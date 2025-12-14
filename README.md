@@ -1,10 +1,7 @@
 # System Requirement Specification 
-
-Project Name: PT Express Mobile Application
-
-Author: Chau My Phuong
-
-Date: 18/11/2024
+- Project Name: PT Express Mobile Application
+- Author: Chau My Phuong
+- Date: 18/11/2024
 ----
 ## 1. Project Overview
 The PT Express Mobile Application is a mobile application used for order management and user authentication for the PT Express shipping company in Vietnam.
