@@ -66,3 +66,10 @@ By clearly defining these items that are out of scope, the document ensures that
 1.4.4	Issues
 - Resistance from employees during the transition from manual work processes to a fully digital system.
 - Ensuring data accuracy during the migration from Google Sheets and physical records to the new system.
+
+Frontend (React / Mobile App)
+        ↓ HTTP (REST API)
+Backend (Node.js + Express)
+        ↓
+Database (PostgreSQL / MySQL)
+
